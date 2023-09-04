@@ -11,3 +11,5 @@ make rename
 ```
 Then you can resume following the normal instructions.
 
+# Note for me in the future:
+I can use the custom file portainer-version.yml to generate a working stack to run on my Synology NAS
