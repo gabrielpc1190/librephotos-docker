@@ -47,7 +47,7 @@ services:
     environment:
       - SECRET_KEY=${shhhhKey:-}
       - BACKEND_HOST=backend
-      - ADMIN_EMAIL=gabrielpc1190@gmail.com
+      - ADMIN_EMAIL=myemail@myemailprovider.local
       - ADMIN_USERNAME=admin
       - ADMIN_PASSWORD=r4@aT!W&d2VCKQ
       - DB_BACKEND=postgresql
